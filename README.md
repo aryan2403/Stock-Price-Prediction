@@ -1,1 +1,1 @@
-# Sign-Language-Detection
+# Stock Price Prediction
